@@ -1,3 +1,7 @@
+> [!IMPORTANT]  
+> This fork only applies changes from https://github.com/dmitryuk/runroom-packages/tree/sf8-support into the RunroomSortableBehaviorBundle.
+> Repository should only be used as long as https://github.com/Runroom/runroom-packages/pull/177 is not merged in origin bundle.
+
 RunroomSortableBehaviorBundle
 =============================
 
